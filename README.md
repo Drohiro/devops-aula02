@@ -2,5 +2,6 @@
 DevOps Aula 02 - Faculdade Impacta 22/08/2017
 
 Keanu Reeves
-Yoshihiro Togashi
-Morgan Freeman
+Yoshihiro Togashi <3
+Hugh Jackman
+Will Smith
